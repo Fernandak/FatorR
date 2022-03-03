@@ -1,2 +1,2 @@
 # FatorR
-Aplicação que auxilia no calculo do Fator R
+Aplicação que auxilia no calculo do Fator R.
